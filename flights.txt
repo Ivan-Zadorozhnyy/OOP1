@@ -1,0 +1,6 @@
+FR123 Paris NewYork 16:00 19:00 Boeing737 180
+FR124 NewYork Paris 21:00 10:00 AirbusA320 220
+FR125 London Tokyo 13:00 08:00 Boeing777 300
+FR126 Tokyo London 11:00 17:00 AirbusA380 500
+FR127 Madrid Lisbon 15:00 16:00 Boeing737 180
+FR128 Lisbon Madrid 18:00 19:00 AirbusA320 220
